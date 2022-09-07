@@ -1,2 +1,2 @@
 # TestVagrentShoppingCart
-Implemented in java
+Implemented in javaScript
